@@ -14,7 +14,7 @@ section#about img {
   margin: 10px;
 }
 
-section#about p#img {
+section#about div#img {
   overflow: auto;
 }
 

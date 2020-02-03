@@ -19,6 +19,18 @@
     width: 150px;
     padding: 3%;
 }
-p{
 
+.bloggraph{
+    padding-bottom: 20px;
+    width: 80%;
+}
+
+.ndgraph{
+    width: 80%;
+}
+
+
+.blogtextgrey {
+    color: grey;
+    margin-top: 3%;
 }

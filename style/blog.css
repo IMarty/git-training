@@ -22,3 +22,8 @@
 p .bloggraph{
     padding-bottom: 20px;
 }
+
+.blogtextgrey {
+    color: grey;
+    margin-top: 3%;
+}

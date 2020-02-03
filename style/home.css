@@ -53,11 +53,19 @@ main .first article {
   width: 75%;
 }
 
-main #fpart {
-  width: 60%;
+main .first article {
+  width: 70%;
 }
 
-main #fpart p {
+main .first article #fpart {
+  width: 35%;
+}
+
+main .first article #fpart h2 {
+  margin-top: 35px;
+}
+
+main .first article #fpart p {
   margin-top: 35px;
   width: 150%;
 }
@@ -68,7 +76,8 @@ main a {
   text-decoration: none;
   color: white;
   border-radius: 3px;
-  margin-top: 50px;
+  display: inline-block;
+  margin-top: 35px;
 }
 
 main img {

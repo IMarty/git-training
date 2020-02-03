@@ -11,15 +11,15 @@ footer {
 }
 
 .mainf {
-    width: 60%;
+    width: 70%;
     margin: auto;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .mainf>section {
-    display: flex;
-    align-items: flex-end;    
+    align-items: flex-end;
 }
 
 .port {

@@ -11,10 +11,19 @@
 
 
 .blogcontainer {
-    width: 60%;
+    width: 70%;
     margin: 4% auto 2%;
 }
 
-p{
+.blogaside {
+    width: 150px;
+    padding: 3%;
+}
+p .bloggraph{
     padding-bottom: 20px;
+}
+
+.blogtextgrey {
+    color: grey;
+    margin-top: 3%;
 }

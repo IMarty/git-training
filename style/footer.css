@@ -9,6 +9,7 @@ footer>* {
     box-sizing: border-box;    
 }
 
+
 footer {
     background-color: rgba(112, 112, 112, 0.28);
     display: flex;

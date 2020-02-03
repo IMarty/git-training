@@ -1,0 +1,14 @@
+.port-cat-filter-bar ul {
+    list-style: none;
+}
+
+.port-cat-filter-bar ul li {
+    display: inline-block;
+}
+
+.port-cat-filter-bar ul li a {
+    text-decoration: none;
+    padding: 10px 20px;
+    color: black;
+    border-left: 1px solid black;
+}

@@ -9,6 +9,11 @@
     box-sizing: border-box;
   }
 
+h1, h2, p, li{
+  font-weight: 700;
+  
+}
+
  h1{
    padding-bottom: 30px;
  }
@@ -19,7 +24,7 @@
  }
 
  h1, h2{
-   font-weight: 500;
+   font-weight: 900;
    font-size: 20px;
  }
  main {
@@ -42,7 +47,7 @@
    display: inline-block;
    position: absolute;
    left: 100%;
-   top: -12.6rem;
+   top: -8.55rem;
  }
  span{
    color:slategray;

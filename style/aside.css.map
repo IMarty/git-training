@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,OAAO,AAAA,MAAM,CAAC;EAEV,KAAK,EAAE,KAAK;CAAG",
+    "sources": [
+        "aside.sass"
+    ],
+    "names": [],
+    "file": "aside.css"
+}

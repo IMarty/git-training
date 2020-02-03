@@ -1,17 +1,27 @@
-header{
+/* 3. nav */
+header
+{
+    background-color: white;
+}
+header 
+{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 10px;
-  }
-  header ul{
+
+}
+header ul
+{
     list-style: none;
     display: flex;
-  }
+    padding: 0 10px;
+}
 
-   header ul a {
+   header ul a
+{
      text-decoration: none;
+     font-family: "Helvetica Neue";
+     color: grey;
+     font-size: 12px;
      padding: 20px 50px;
-     color: #fff;
-     margin:5px;
-   }
+}

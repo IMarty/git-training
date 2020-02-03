@@ -6,10 +6,4 @@
   -webkit-transition-duration: .3s;
           transition-duration: .3s;
 }
-
-*:not(input) {
-  margin: 0;
-  padding: 0;
-  border: 0;
-}
 /*# sourceMappingURL=home.css.map */

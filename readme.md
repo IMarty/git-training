@@ -1,3 +1,3 @@
 # Git training
 
-This is the begining!
+This is the begining! Other Stufff.

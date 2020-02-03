@@ -6,6 +6,8 @@
 /* 3. nav */
 @import "header.css";
 /* 4. main */
+/*4.1 about*/
+@import "about.css";
 @import "portfolio.css";
 @import "blog.css";
 /* 5. contact */

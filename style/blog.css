@@ -6,7 +6,7 @@
 
 .blogcontainer {
     width: 85%;
-    margin: 4% auto 2%;
+    margin: 0 auto 2%;
 }
 
 .blogcontent {
@@ -33,4 +33,9 @@
 .blogtextgrey {
     color: grey;
     margin-top: 3%;
+}
+
+.blogh2 {
+    margin-bottom: 2%;
+    margin-top: 2%;
 }

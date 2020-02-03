@@ -1,1 +1,23 @@
-/* 6. footer */
+/* 3. nav */
+header
+{
+    background-color: white;
+}
+header 
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+header ul
+{
+    list-style: none;
+    display: flex;
+}
+
+   header ul a
+{
+     text-decoration: none;
+}
+

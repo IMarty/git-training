@@ -1,17 +1,18 @@
 section.aside {
     width: 220px;
+    height: 600px;
 }
 
 .asideh3 {
-    margin-bottom: 15%;
+    margin-bottom: 10%;
 }
 
 section.aside .asidep {
-    margin-bottom: 15%;
+    margin-bottom: 10%;
 }
 
 section.aside .asidep.time {
-    margin-top: 5%;
+    margin-top: 2.5%;
 }
 
 .asidegrey {

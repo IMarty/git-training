@@ -79,7 +79,65 @@ main a {
   margin-top: 35px;
 }
 
-main img {
+main .first img {
   width: 55%;
+}
+
+main section.third {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 90%;
+  margin: auto;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+main section.third .header {
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 20px;
+}
+
+main section.third .recentwork {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  width: 100%;
+  margin-top: 40px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+main section.third .recentwork .article {
+  text-align: left;
+  padding: 20px;
+  padding-top: 0;
+  width: 30%;
+}
+
+main section.third .recentwork .article p.pgrey {
+  color: #808080;
+  margin-bottom: 20px;
+}
+
+main section.third .recentwork .six-images {
+  width: 90%;
+}
+
+main section.third .recentwork .six-images img {
+  width: 30%;
+  height: 45%;
 }
 /*# sourceMappingURL=home.css.map */

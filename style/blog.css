@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.blogcontent {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.blogcontainer {
+    width: 60%;
+    margin: 4% auto 2%;
+}
+
+p{
+    padding-bottom: 20px;
+}

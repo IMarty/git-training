@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.blogcontent {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.blogcontainer {
+    width: 70%;
+    margin: 4% auto 2%;
+}
+
+.blogaside {
+    width: 150px;
+    padding: 3%;
+}
+p{
+
+}

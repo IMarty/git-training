@@ -6,4 +6,35 @@
   -webkit-transition-duration: .3s;
           transition-duration: .3s;
 }
+
+* main .first {
+  width: 80%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: auto;
+}
+
+* main .first article {
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  width: 75%;
+}
+
+* main .first article p {
+  margin: 15px 5px;
+  width: 60%;
+}
+
+* main .first article a {
+  padding: 10px 25px;
+  background-color: #707070;
+  text-decoration: none;
+  color: white;
+  border-radius: 3px;
+}
+
+* main .first img {
+  width: 55%;
+}
 /*# sourceMappingURL=home.css.map */

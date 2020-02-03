@@ -1,5 +1,7 @@
 /* 3. nav */
-@font-face {
+
+@font-face 
+{
     font-family: BallparkWeiner;
     src: url(../Fonts/BallparkWeiner.TTF);
 }
@@ -9,14 +11,16 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
- background-color: white;
+    background-color: white;
+    width: 85%;
+    margin: auto;
 }
 
 .first ul
 {
     list-style: none;
     display: flex;
-    padding: 0 10px;
+    margin: 20px;
 }
 
 .first ul a
@@ -25,22 +29,38 @@
      font-family: 'Helvetica Neue';
      color: gainsboro;
      font-size: 12px;
-     padding: 20px 50px;
+     padding: 10px 30px;
+     border-right: 2px solid black;
+     text-shadow: 1px 1px 1px;
 }
 
-input {
+.inp 
+{
     background-color: black;
 	border-radius:30px;
 	display:inline-block;
 	cursor:pointer;
-	font-size:25px;
-	padding:25px 150px;
+	font-size:14px;
     text-decoration:none;
     color: white;
+    margin-left: 20px;
 }
 
-.port {
+.port 
+{
     color: gainsboro;
     font-size: 36px;
     font-family: "BallparkWeiner";
+}
+
+#botto
+{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+.fas fa-search
+{
+background-color: black;
 }

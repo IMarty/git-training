@@ -4,6 +4,10 @@
   color: #464646;
 }
 
+.contact {
+  padding-right: 3rem;
+}
+
 .contact__paragraph {
   margin: 1rem 0;
   font-family: HelveticaNeue;

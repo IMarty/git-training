@@ -14,7 +14,7 @@
   color: #464646;
 }
 
-form {
+#form__contact {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -28,7 +28,7 @@ form {
   height: 408px;
 }
 
-form input {
+#form__contact input {
   width: 290px;
   height: 34px;
   border-radius: 0.3rem;
@@ -36,7 +36,7 @@ form input {
   font-family: HelveticaNeue;
 }
 
-form input[type="submit"] {
+#form__contact input[type="submit"] {
   width: 89px;
   heigth: 35px;
   background-color: #929292;
@@ -44,7 +44,7 @@ form input[type="submit"] {
   font-family: HelveticaNeue;
 }
 
-form textarea {
+#form__contact textarea {
   padding: 0 1rem;
   font-family: HelveticaNeue;
 }

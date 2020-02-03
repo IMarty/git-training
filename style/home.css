@@ -106,6 +106,27 @@ main section.third .header {
   padding: 20px;
 }
 
+main section.third .header .container {
+  padding-right: 70px;
+}
+
+main section.third .header .container table {
+  border-spacing: 10px;
+}
+
+main section.third .header .container table td {
+  border: 7px solid grey;
+  width: 50px;
+}
+
+main section.third .header .container table #one {
+  border: 7px solid #cdcdcd;
+}
+
+main section.third .header .container table #two {
+  border: 7px solid #a6a6a6;
+}
+
 main section.third .recentwork {
   display: -webkit-box;
   display: -ms-flexbox;

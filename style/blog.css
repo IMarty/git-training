@@ -11,7 +11,14 @@
 
 
 .blogcontainer {
-    width: 60%;
+    width: 70%;
     margin: 4% auto 2%;
 }
 
+.blogaside {
+    width: 150px;
+    padding: 3%;
+}
+p{
+    padding-bottom: 20px;
+}

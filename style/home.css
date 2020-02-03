@@ -58,7 +58,7 @@ main .first article {
 }
 
 main .first article #fpart {
-  width: 35%;
+  width: 75%;
 }
 
 main .first article #fpart h2 {
@@ -67,7 +67,6 @@ main .first article #fpart h2 {
 
 main .first article #fpart p {
   margin-top: 35px;
-  width: 150%;
 }
 
 main a {

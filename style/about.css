@@ -1,0 +1,30 @@
+section#about {
+  font-family: arial;
+}
+
+section#about p {
+  padding: 10px;
+}
+
+section#about img {
+  float: left;
+  border: 1px solid #707070;
+  background-color: white;
+  padding: 3px;
+  margin: 10px;
+}
+
+section#about div#img {
+  overflow: auto;
+}
+
+section#about div#div1 {
+  -webkit-column-count: 2;
+          column-count: 2;
+}
+
+section#about div#div2 {
+  -webkit-column-count: 3;
+          column-count: 3;
+}
+/*# sourceMappingURL=about.css.map */

@@ -1,4 +1,9 @@
 main section {
-  margin: 10rem;
-}
+  *{
+    box-sizing: border-box;
+  }
+
+ h1{
+   padding: 10px;
+ }
 /*# sourceMappingURL=archive.css.map */

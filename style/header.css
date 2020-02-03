@@ -1,27 +1,66 @@
 /* 3. nav */
-header
+
+@font-face 
 {
-    background-color: white;
+    font-family: BallparkWeiner;
+    src: url(../Fonts/BallparkWeiner.TTF);
 }
-header 
+
+.first
 {
     display: flex;
     justify-content: space-between;
     align-items: center;
-
+    background-color: white;
+    width: 85%;
+    margin: auto;
 }
-header ul
+
+.first ul
 {
     list-style: none;
     display: flex;
-    padding: 0 10px;
+    margin: 20px;
 }
 
-   header ul a
+.first ul a
 {
      text-decoration: none;
-     font-family: "Helvetica Neue";
-     color: grey;
+     font-family: 'Helvetica Neue';
+     color: gainsboro;
      font-size: 12px;
-     padding: 20px 50px;
+     padding: 10px 30px;
+     border-right: 2px solid black;
+     text-shadow: 1px 1px 1px;
+}
+
+.inp 
+{
+    background-color: black;
+	border-radius:30px;
+	display:inline-block;
+	cursor:pointer;
+	font-size:14px;
+    text-decoration:none;
+    color: white;
+    margin-left: 20px;
+}
+
+.port 
+{
+    color: gainsboro;
+    font-size: 36px;
+    font-family: "BallparkWeiner";
+}
+
+#botto
+{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+.fas fa-search
+{
+background-color: black;
 }

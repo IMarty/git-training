@@ -47,5 +47,6 @@
 #form__contact textarea {
   padding: 0 1rem;
   font-family: HelveticaNeue;
+  resize: none;
 }
 /*# sourceMappingURL=contact.css.map */

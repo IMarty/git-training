@@ -19,3 +19,21 @@
 /* 6. footer */
 
 @import "footer.css";
+
+/*Font import*/
+
+
+/*Helvetica Neue Regular*/
+
+@font-face {
+    font-family: HelveticaNeue;
+    src: url(../fonts/HelveticaNeue.ttf);
+}
+
+
+/*Helvetica Neue Bold*/
+
+@font-face {
+    font-family: HelveticaNeueBold;
+    src: url(../fonts/HelveticaNeueBd.ttf);
+}

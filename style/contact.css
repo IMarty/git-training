@@ -1,9 +1,13 @@
 h3 {
   margin: 2rem 0;
+  font-family: HelveticaNeue;
+  color: #464646;
 }
 
 p {
   margin: 1rem 0;
+  font-family: HelveticaNeue;
+  color: #464646;
 }
 
 form {
@@ -25,6 +29,7 @@ form input {
   height: 34px;
   border-radius: 0.3rem;
   padding: 0 1rem;
+  font-family: HelveticaNeue;
 }
 
 form input[type="submit"] {
@@ -32,9 +37,11 @@ form input[type="submit"] {
   heigth: 35px;
   background-color: #929292;
   color: white;
+  font-family: HelveticaNeue;
 }
 
 form textarea {
   padding: 0 1rem;
+  font-family: HelveticaNeue;
 }
 /*# sourceMappingURL=contact.css.map */

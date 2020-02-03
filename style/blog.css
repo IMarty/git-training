@@ -2,28 +2,42 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: 'HelveticaNeue';
+}
+
+.blogcontainer {
+    width: 85%;
+    margin: 0 auto 2%;
 }
 
 .blogcontent {
     display: flex;
     justify-content: space-between;
-}
-
-
-.blogcontainer {
-    width: 70%;
-    margin: 4% auto 2%;
+    width: 72%;
 }
 
 .blogaside {
     width: 150px;
     padding: 3%;
 }
-p .bloggraph{
+
+.bloggraph{
     padding-bottom: 20px;
+    line-height: 22px;
 }
+
+.ndgraph{
+    line-height: 22px;
+}
+
 
 .blogtextgrey {
     color: grey;
     margin-top: 3%;
+}
+
+.blogh2 {
+    margin-bottom: 2%;
+    margin-top: 2%;
+    font-size: 18px;
 }

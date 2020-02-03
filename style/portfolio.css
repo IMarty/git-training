@@ -3,6 +3,18 @@
     font-size: 1rem;
 }
 
+.port-img1 img{
+    width: 300px;
+}
+
+.port-img1{
+    display: flex;
+    justify-content: space-evenly;
+   flex-wrap: wrap;
+   margin: 10px;
+}
+
+
 .port-main-heading {
     font-size: 1.5rem;
     margin-bottom: 2rem;

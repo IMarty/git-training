@@ -1,11 +1,26 @@
 footer>* {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;    
 }
+
 footer {
-    background-color: #707070;
+    background-color: rgba(112, 112, 112, 0.28);
     display: flex;
     align-items: center;
+    color: #808080;
+}
+
+.mainf {
+    width: 70%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.mainf>section {
+    align-items: flex-end;
 }
 
 .port {
@@ -14,5 +29,11 @@ footer {
 }
 
 .port>h2 {
-    border-right: 2px solid black;
+    border-right: 1px solid black;
+    margin-right: 20px;
+    padding-right: 20px;
+}
+
+.mainf>section>span {
+    color: #B2B2B2;
 }

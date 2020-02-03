@@ -93,6 +93,7 @@ main section.third {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
+  padding-left: 25px;
 }
 
 main section.third .header {

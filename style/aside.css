@@ -1,4 +1,19 @@
 section.aside {
     width: 220px;
-    height: 520px;
+}
+
+.asideh3 {
+    margin-bottom: 15%;
+}
+
+section.aside .asidep {
+    margin-bottom: 15%;
+}
+
+section.aside .asidep.time {
+    margin-top: 5%;
+}
+
+.asidegrey {
+    color: grey;
 }

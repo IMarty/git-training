@@ -1,3 +1,25 @@
+.portfolio {
+    font-family: HelveticaNeue, Helvetica, sans-serif;
+    font-size: 1rem;
+}
+
+.port-img1 img{
+    width: 300px;
+}
+
+.port-img1{
+    display: flex;
+    justify-content: space-evenly;
+   flex-wrap: wrap;
+   margin: 10px;
+}
+
+
+.port-main-heading {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+}
+
 .port-cat-filter-bar ul {
     list-style: none;
 }
@@ -8,7 +30,43 @@
 
 .port-cat-filter-bar ul li a {
     text-decoration: none;
-    padding: 10px 20px;
+    font-size: 1rem;
+    padding: 0px 10px;
     color: black;
     border-left: 1px solid black;
+}
+
+.port-cat-filter-bar ul li:first-child a {
+    border-left: 0;
+}
+
+.port-card-labels {
+    background-color: #fff;
+    font-size: 0.8rem;
+    padding-right: 10px;
+    color: gray;
+}
+
+.port-card-labels i {
+    padding-right: 5px;
+}
+.port-card-labels ul {
+    list-style: none;
+}
+
+.port-card-labels ul li {
+    display: inline-block;
+}
+
+.port-card-labels ul li a {
+    text-decoration: none;
+    text-transform: lowercase;
+    font-size: 0.8rem;
+    padding: 0px 5px;
+    color: gray;
+    border-left: 1px solid gray;
+}
+
+.port-card-labels ul li:first-child a {
+    border-left: 0;
 }

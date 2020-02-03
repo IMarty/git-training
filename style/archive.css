@@ -6,6 +6,10 @@
  h1{
    padding-top: 20px;
  }
+ h1, h2{
+   padding-bottom: 3rem;
+   padding-top: 2rem;
+ }
  main {
   
 

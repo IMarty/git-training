@@ -1,10 +1,21 @@
 /* 1. general */
+
 @import "general.css";
 
 /* 2. body */
+
+
 /* 3. nav */
+
 @import "header.css";
+
 /* 4. main */
+
+
 /* 5. contact */
+
+@import "contact.css";
+
 /* 6. footer */
+
 @import "footer.css";

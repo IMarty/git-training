@@ -4,15 +4,15 @@
     padding: 0;
 }
 
+.blogcontainer {
+    width: 85%;
+    margin: 4% auto 2%;
+}
+
 .blogcontent {
     display: flex;
     justify-content: space-between;
-}
-
-
-.blogcontainer {
-    width: 70%;
-    margin: 4% auto 2%;
+    width: 72%;
 }
 
 .blogaside {
@@ -22,11 +22,11 @@
 
 .bloggraph{
     padding-bottom: 20px;
-    width: 80%;
+    line-height: 22px;
 }
 
 .ndgraph{
-    width: 80%;
+    line-height: 22px;
 }
 
 

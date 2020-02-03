@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "AAAA,AAAA,CAAC,CAAC;EACE,UAAU,EAAE,UAAU;CAAG",
+    "mappings": "AAAA,AAAA,EAAE,CAAC;EACC,MAAM,EAAE,MAAM;CAAG",
     "sources": [
         "contact.sass"
     ],

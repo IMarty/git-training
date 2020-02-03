@@ -2,8 +2,13 @@
 @import "general.css";
 
 /* 2. body */
+
 /* 3. nav */
+@import "header.css";
 /* 4. main */
+@import "portfolio.css";
+@import "blog.css";
 /* 5. contact */
+
 /* 6. footer */
 @import "footer.css";

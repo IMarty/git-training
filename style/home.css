@@ -53,11 +53,15 @@ main .first article {
   width: 75%;
 }
 
-main #fpart {
+main #fpart article {
   width: 60%;
 }
 
-main #fpart p {
+main #fpart article h2 {
+  margin-top: 35px;
+}
+
+main #fpart article p {
   margin-top: 35px;
   width: 150%;
 }
@@ -68,10 +72,11 @@ main a {
   text-decoration: none;
   color: white;
   border-radius: 3px;
-  margin-top: 50px;
+  display: inline-block;
+  margin-top: 35px;
 }
 
 main img {
-  width: 55%;
+  width: 45%;
 }
 /*# sourceMappingURL=home.css.map */

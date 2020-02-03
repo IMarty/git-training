@@ -1,4 +1,47 @@
 h3 {
   margin: 2rem 0;
+  font-family: HelveticaNeue;
+  color: #464646;
+}
+
+p {
+  margin: 1rem 0;
+  font-family: HelveticaNeue;
+  color: #464646;
+}
+
+form {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  height: 408px;
+}
+
+form input {
+  width: 290px;
+  height: 34px;
+  border-radius: 0.3rem;
+  padding: 0 1rem;
+  font-family: HelveticaNeue;
+}
+
+form input[type="submit"] {
+  width: 89px;
+  heigth: 35px;
+  background-color: #929292;
+  color: white;
+  font-family: HelveticaNeue;
+}
+
+form textarea {
+  padding: 0 1rem;
+  font-family: HelveticaNeue;
 }
 /*# sourceMappingURL=contact.css.map */

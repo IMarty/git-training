@@ -9,3 +9,28 @@
     justify-content: space-between;
 }
 
+
+.blogcontainer {
+    width: 70%;
+    margin: 4% auto 2%;
+}
+
+.blogaside {
+    width: 150px;
+    padding: 3%;
+}
+
+.bloggraph{
+    padding-bottom: 20px;
+    width: 80%;
+}
+
+.2ndgraph{
+    width: 80%;
+}
+
+
+.blogtextgrey {
+    color: grey;
+    margin-top: 3%;
+}

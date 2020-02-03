@@ -1,13 +1,20 @@
+@font-face {
+    font-family: BallparkWeiner;
+    src: url(../fonts/BallparkWeiner.TTF);
+}
+
 footer>* {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    box-sizing: border-box;    
 }
 
+
 footer {
-    background-color: #707070;
+    background-color: rgba(112, 112, 112, 0.28);
     display: flex;
-    align-items: center;    
+    align-items: center;
+    color: #808080;
 }
 
 .mainf {
@@ -19,7 +26,7 @@ footer {
 }
 
 .mainf>section {
-    align-items: flex-end;
+    align-items: flex-end;    
 }
 
 .port {
@@ -27,8 +34,19 @@ footer {
     align-items: center;
 }
 
-.port>h2 {
-    border-right: 1px solid black;
-    margin-right: 20px;
-    padding-right: 20px;
+.port>h2 {   
+    font-family: "BallparkWeiner";
+}
+
+.port>section {
+    border-left: 1px solid black;
+    margin-left: 20px;
+    padding-left: 20px;
+}
+
+.mainf>section>span {
+    color: #B2B2B2;
+}
+section {
+    font-family: HelveticaNeue;
 }

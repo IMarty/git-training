@@ -1,6 +1,11 @@
+section#about {
+  color: #414141;
+  font-size: 1rem;
+  line-height: 20px;
+}
+
 section#about h1 {
-  padding: 20px;
-  font-family: arial;
+  padding: 30px 10px;
 }
 
 section#about p {
@@ -11,6 +16,7 @@ section#about img {
   border: 1px solid #707070;
   background-color: white;
   margin: 10px;
+  padding: 3px;
 }
 
 section#about div#img {
@@ -23,6 +29,8 @@ section#about div#img {
 }
 
 section#about div#img p {
+
+  
   margin: 10px;
   padding: 0;
 }

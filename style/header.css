@@ -20,8 +20,24 @@ header ul
    header ul a
 {
      text-decoration: none;
-     font-family: "Helvetica Neue";
-     color: grey;
+     font-family: 'Helvetica Neue';
+     color: gainsboro;
      font-size: 12px;
      padding: 20px 50px;
+}
+input {
+    background-color: black;
+	border-radius:30px;
+	display:inline-block;
+	cursor:pointer;
+	font-size:25px;
+	padding:25px 150px;
+    text-decoration:none;
+    color: white;
+}
+
+div {
+    color: gainsboro;
+    font-size: 36px;
+    font-family: 'Ballpark Weiner';
 }

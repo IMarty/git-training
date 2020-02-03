@@ -1,23 +1,25 @@
 /* 3. nav */
-header
-{
-    background-color: white;
+@font-face {
+    font-family: BallparkWeiner;
+    src: url(../Fonts/BallparkWeiner.TTF);
 }
-header 
+
+.first
 {
     display: flex;
     justify-content: space-between;
     align-items: center;
-
+ background-color: white;
 }
-header ul
+
+.first ul
 {
     list-style: none;
     display: flex;
     padding: 0 10px;
 }
 
-   header ul a
+.first ul a
 {
      text-decoration: none;
      font-family: 'Helvetica Neue';
@@ -25,6 +27,7 @@ header ul
      font-size: 12px;
      padding: 20px 50px;
 }
+
 input {
     background-color: black;
 	border-radius:30px;
@@ -36,8 +39,8 @@ input {
     color: white;
 }
 
-div {
+.port {
     color: gainsboro;
     font-size: 36px;
-    font-family: 'Ballpark Weiner';
+    font-family: "BallparkWeiner";
 }

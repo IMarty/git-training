@@ -1,8 +1,7 @@
 section#about {
   color: #414141;
-  font-size: 0.8rem;
-  font-family: Helvetica;
-  line-height: 20px
+  font-size: 1rem;
+  line-height: 20px;
 }
 
 section#about h1 {

@@ -6,7 +6,8 @@
 }
 
 .blogcontainer {
-    margin: 0 auto 2%;
+    margin: 0 auto 2% 10%;
+    width: 80%;
 }
 
 .blogcontent {

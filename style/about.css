@@ -1,6 +1,12 @@
+section#about {
+  color: #414141;
+  font-size: 0.8rem;
+  font-family: Helvetica;
+  line-height: 20px
+}
+
 section#about h1 {
-  padding: 20px;
-  font-family: arial;
+  padding: 30px 10px;
 }
 
 section#about p {

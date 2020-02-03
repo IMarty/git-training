@@ -34,6 +34,7 @@
   border-radius: 0.3rem;
   padding: 0 1rem;
   font-family: HelveticaNeue;
+  background-color: initial;
 }
 
 #form__contact input[type="submit"] {

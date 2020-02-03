@@ -15,6 +15,7 @@ footer {
     display: flex;
     align-items: center;
     color: #808080;
+    box-shadow: -1px -1px 1px rgba(112, 112, 112, 0.2);
 }
 
 .mainf {
@@ -47,6 +48,6 @@ footer {
 .mainf>section>span {
     color: #B2B2B2;
 }
-section {
+.fsection {
     font-family: HelveticaNeue;
 }

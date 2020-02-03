@@ -9,3 +9,9 @@
     justify-content: space-between;
 }
 
+
+.blogcontainer {
+    width: 60%;
+    margin: 4% auto 2%;
+}
+

@@ -1,10 +1,31 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 
   *{
     box-sizing: border-box;
   }
 
+h1, h2, p, li{
+  font-weight: 700;
+  
+}
+
  h1{
-   padding-top: 20px;
+   padding-bottom: 30px;
+ }
+
+ h2{
+   padding-top: 5rem;
+   padding-bottom: 30px;
+ }
+
+ h1, h2{
+   font-weight: 900;
+   font-size: 20px;
  }
  h1, h2{
    padding-bottom: 3rem;
@@ -16,11 +37,21 @@
    padding: 5rem 2rem 7rem 10rem;
 
    margin-left: 20px;
+   font-size: 15px;
  }
- div .aside{
+
+ .aside1212 div h2 {
+   padding: 2rem 0 2rem 0;
+ }
+
+.aside1212{
    width: 200px;
-   height: 600px;
-   display: column;
+   height: 1000px;
+   /* display: column; */
+   display: inline-block;
+   position: absolute;
+   left: 100%;
+   top: -8.55rem;
  }
  span{
    color:slategray;
@@ -30,30 +61,51 @@
    color: black;
    text-decoration: none;
  }
+ ul a{
+   color:black;
+   text-decoration: none;
+ }
+ ul li{
+   padding: 0.25rem;
+ }
   section {
     display: flex;
     /* justify-content: space-between; */
     
   
  }
- .headline{
+ .headline1212{
    display: block;
-   width: 80%;
+   width: 60%;
 
  }
- .top25{
-   width: 40%;
+ .top251212{
+   width: 60rem;
+   margin-right: 9rem;
+   /* margin-right: 200px ; */
   
  
   
  }
- .container{
+ .container1212{
    display: flex;
  }
-.rightlist{
-  margin-left: 150px;
+.rightlist1212{
+  /* margin-left: 200px; */
+  width: 100%;
 }
 
- 
- 
+.mainbody1212{
+  display: flex;
+  position: relative;
+  width: 60rem;
+}
+.maintitle1212{
+  width: 80%;
+}
+.getsmaller #getsmallerd{
+  padding-bottom: 0rem;
+  margin-bottom: 0rem;
+}
+
 /*# sourceMappingURL=archive.css.map */
